@@ -1,0 +1,7 @@
+.build/
+DerivedData/
+.swiftpm/
+.DS_Store
+Pods/
+*.xcodeproj/xcuserdata/
+.claude/
